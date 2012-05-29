@@ -50,6 +50,10 @@ data = {
         dateCompleted: {
           type: "date",
           optional: true
+        },
+        notes: {
+          type: "array",
+          optional: true
         }
       },
       onGet: 'this.isGet = true; //This is a comment',
