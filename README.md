@@ -1,6 +1,6 @@
 # deployd
 
-distributed resource server
+resource server
 
 [documentation](http://deployd.github.com/deployd)
 
@@ -11,7 +11,7 @@ distributed resource server
   - Register, Login, and Logout Users
   - Restrict access to data
   
-**Data** 
+**Data**
 
   - Query, Insert, Update, and Remove JSON Objects over HTTP
   - JSON Schema Validation
